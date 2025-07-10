@@ -1,0 +1,16 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore package-lock.json file
+package-lock.json
+
+# Ignore .env file
+.env
+config.js
+
+# Ignore Sessions
+db/sessions/
+
+# Ignore DB Json
+db/database.json
+db/session.data.json
